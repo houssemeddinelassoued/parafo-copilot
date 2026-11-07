@@ -1,0 +1,28 @@
+{
+  "name": "parafo-copilot",
+  "version": "2.0.0",
+  "description": "Parafo, le parapheur numérique fictif : dépôt fil rouge de la formation GitHub Copilot · Débutant (Docaposte Institute, v2).",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test \"test/**/*.test.js\"",
+    "test:atelier2": "node --test \"test/acceptance/a2-*.test.js\"",
+    "test:atelier3": "node --test \"test/acceptance/a3-*.test.js\"",
+    "test:atelier4": "node --test \"test/acceptance/a4-*.test.js\"",
+    "test:atelier5": "node --test \"test/acceptance/a5-*.test.js\"",
+    "test:atelier6": "node --test \"test/acceptance/a6-*.test.js\"",
+    "test:atelier7": "node --test \"test/acceptance/a7-*.test.js\" && node scripts/mutation.js",
+    "test:atelier8": "node --test \"test/acceptance/a8-*.test.js\"",
+    "test:atelier9": "node --test \"test/acceptance/a9-*.test.js\" \"ateliers/atelier-09-revue/*.test.js\"",
+    "mutation": "node scripts/mutation.js",
+    "couverture": "node --test --experimental-test-coverage \"test/**/*.test.js\"",
+    "garde": "node scripts/garde.js",
+    "reprise": "node scripts/reprise.js",
+    "verifier-poste": "node scripts/verifier-poste.js",
+    "serveur": "node scripts/serveur.js",
+    "mcp:annuaire": "node mcp/annuaire.mjs"
+  }
+}

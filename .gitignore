@@ -1,0 +1,7 @@
+node_modules/
+coverage/
+.reprises-sauvegardes/
+__pycache__/
+*.class
+.DS_Store
+Thumbs.db

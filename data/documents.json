@@ -1,0 +1,10 @@
+[
+  { "id": "DOC-3f9a1c07", "titre": "Contrat cadre de maintenance 2027", "auteur": "claire.dumas@parafo.example", "etat": "en_circulation", "creeLe": "2026-10-05T08:12:00.000Z", "taille": 482113 },
+  { "id": "DOC-a41be2d9", "titre": "Avenant n° 3 : télétravail", "auteur": "rh@parafo.example", "etat": "signe", "creeLe": "2026-09-18T13:40:00.000Z", "taille": 96200 },
+  { "id": "DOC-07c5d8e1", "titre": "Bon de commande « postes de travail »", "auteur": "achats@parafo.example", "etat": "brouillon", "creeLe": "2026-11-02T09:05:00.000Z", "taille": 12800 },
+  { "id": "DOC-b2e04f6a", "titre": "Accord de confidentialité, Projet Héron", "auteur": "juridique@parafo.example", "etat": "refuse", "creeLe": "2026-08-27T15:22:00.000Z", "taille": 230400 },
+  { "id": "DOC-5d6e7f80", "titre": "Procès-verbal du CSE, octobre", "auteur": "cse@parafo.example", "etat": "expire", "creeLe": "2026-10-01T07:30:00.000Z", "taille": 1258291 },
+  { "id": "DOC-c8a9b0d1", "titre": "Convention de stage, M. Petit", "auteur": "rh@parafo.example", "etat": "en_circulation", "creeLe": "2026-10-29T10:10:00.000Z", "taille": 64512 },
+  { "id": "DOC-e1f2a3b4", "titre": "=Devis 2026; à valider", "auteur": "achats@parafo.example", "etat": "annule", "creeLe": "2026-07-14T11:00:00.000Z", "taille": 512 },
+  { "id": "DOC-9a8b7c6d", "titre": "Politique de sécurité \"poste nomade\"", "auteur": "rssi@parafo.example", "etat": "en_circulation", "creeLe": "2026-11-04T16:45:00.000Z", "taille": 315000 }
+]

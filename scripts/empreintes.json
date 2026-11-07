@@ -1,0 +1,21 @@
+{
+  "ateliers/atelier-09-revue/revue.test.js": "ac0ece4cbfe1b173a16648a977f6f9c45efd50bf51f228785a3c896ddd58651c",
+  "scripts/mutation.js": "ddb8cbe450943399da959cb3952fd7bdea0c2beca0255ecbdfb67f1b5f8b6348",
+  "src/erreurs.js": "87e66901bd91d3bc3fcc6e10511e60fa27da39da0008f398121781c9609fa46b",
+  "src/journal.js": "996c57c6ba265182d24ec4aa544a0c74d9a4622ff68f6d96b2b7189b4e73b385",
+  "test/acceptance/a2-quatre-modes.test.js": "0e06e0ee2d99438a3aab72e94fe49bfa0ad8ac5e705ebb1e61e5c3033dc1541d",
+  "test/acceptance/a3-document.test.js": "504c757719a43b718451c411fd52625a7bb5b3fadcc7750168361e2aaeaed4f0",
+  "test/acceptance/a4-format.test.js": "6ac5b95a116aadc027f8e001e6f839270d4796fe5d4cc4f489126907676798d7",
+  "test/acceptance/a4-instructions.test.js": "d229c0a4b9860b00c061bd2de9c58ea2957a89b5a8d912b07fb6843fd2272391",
+  "test/acceptance/a5-circuit.test.js": "35155ddefab8b6345b53da439bbe7aad81ce6e37bbdad12e31cbccbcb2a29a3e",
+  "test/acceptance/a5-harnais.test.js": "8f376913006cf5c2419019f568a1f6d6027f740bcffb3da93b4aae987626a823",
+  "test/acceptance/a6-personnalisation.test.js": "ce8cbd1f5aab3a37afc93eb6dfd5e7e0cbd2adfb257a451f0db2680d50df4d2e",
+  "test/acceptance/a6-relances-caracterisation.test.js": "1e29a8c6e118244c19e7507423018602257cf5bcc8199fc038942aa081584a34",
+  "test/acceptance/a6-relances-contrat.test.js": "3741f48dbfc059adbb728a9e61198574db013939a963c733ad7977c76bcb16c1",
+  "test/acceptance/a7-skill.test.js": "cfdfee8411cf288d46fe0c13dabfae230fc38391c9457fd661d607439682e0fd",
+  "test/acceptance/a8-export.test.js": "c5bbc9df43f964dc2a2306ff388f302d41fc683277f580756995f888fd4e1bd3",
+  "test/acceptance/a8-mcp-plugin.test.js": "179c8b2f7bef86c4d8e72ec28e1c7431c7057515b6188dd8839067b225390416",
+  "test/acceptance/a8-statut.test.js": "2c1302da86dbeea06c580acf3e4d622d1a63273f9f5054cd39690d453d9388af",
+  "test/acceptance/a9-relecteur.test.js": "b4aff9fc20295d93c05fd6aca87d67187c872cab5a898284c2a0abd5722ed92b",
+  "test/acceptance/aides/lecture.js": "10a612996c89c2e974e8177ac390355c4dce9204c6cb24092963c65a2d6e19fb"
+}
